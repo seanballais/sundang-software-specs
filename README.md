@@ -1,2 +1,2 @@
-# sundang-software-specs
+# Sundang Software Specifications
 Software specifications for the Sundang war bot engine.
